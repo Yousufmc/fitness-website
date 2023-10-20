@@ -17,3 +17,10 @@ Using latest technologies React, Tailwind css, Firebase authentication system, f
 - So many Services.
 - Get in touch contact form
 - See the Upcoming Events.
+
+
+
+Live website: Live Link: https://yousuf-assignment-9.netlify.app/
+
+
+GitHub Link:  https://github.com/programming-hero-web-course-4/b8a9-event-management-Yousufmc
